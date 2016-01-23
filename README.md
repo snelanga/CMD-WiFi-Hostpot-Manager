@@ -1,4 +1,4 @@
-# CMD-WiFi-Hostpot-Manager
+# CMD-WiFi-Hotspot-Manager
 ##### By - Sahitha Nelanga Harischandra De Silva
 ###### Simple batch script to create and manage hosted network using the windows command prompt with administrative privileges.
 
