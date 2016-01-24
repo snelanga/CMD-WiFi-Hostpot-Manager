@@ -9,7 +9,7 @@
 
 - Then click **“Change adapter settings”**. It is usually on the top left side.
 
-- Then find your Data Card(Dongle)? wired connection on the list. Right click on it and select **“properties”**. Then select **“Sharing”* tab on top. 
+- Then find your Data Card(Dongle)? wired connection on the list. Right click on it and select **“properties”**. Then select **“Sharing”** tab on top. 
 
 - And check the box **"Allow other network users to connect…“**. And then Select the network connection name that is used by your hotspot. Usually it is like **“Local Area Connection* “**. Then save it. 
 
